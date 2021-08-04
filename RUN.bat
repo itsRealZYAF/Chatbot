@@ -1,2 +1,2 @@
 @echo off
-node index.js
+npm start
