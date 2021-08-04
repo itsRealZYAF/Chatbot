@@ -26,4 +26,4 @@ console.log(`Message from ${message.author.tag} - ${message.content}`)});
 
 keepAlive();
 
-client.login("YOUR TOKEN").catch(() => console.log("Invalid token."));
+client.login(config.token).catch(() => console.log("Invalid token."));
