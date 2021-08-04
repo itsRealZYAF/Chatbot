@@ -1,4 +1,7 @@
 # HOW TO INSTALL THE CHATBOT
+
+![SCREEN](https://user-images.githubusercontent.com/72516691/128196080-50a544ec-70bd-4792-93ef-6d67267c92ff.PNG)
+
 1. Download NodeJS [here](https://nodejs.org/).
 2. Run `INSTALL.bat` to install the necessary modules.
 3. Edit the `config.js` file.
